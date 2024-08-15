@@ -22,7 +22,13 @@ int main(){
     int target;
     cout<<"Enter Target to Search : "<<endl;
     cin>>target;
-    twosum( v1,target);
+    vector<int> result = twosum(v1, target);
+
+    if (!result.empty()) {
+        cout << "Indices: " << result[0] << ", " << result[1] << endl;
+    } else {
+        cout << "No pair found that sums up to the target." << endl;
+    }
     
     return 0;
 }
