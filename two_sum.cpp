@@ -29,6 +29,6 @@ int main(){
     } else {
         cout << "No pair found that sums up to the target." << endl;
     }
-    
+     
     return 0;
 }
