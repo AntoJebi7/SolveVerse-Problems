@@ -2,6 +2,7 @@
 *.exe
 *.out
 *.o
+*.class
 
 # Ignore build directories
 /build/
