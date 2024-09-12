@@ -3,22 +3,21 @@
 //
 #include<iostream>
 using namespace std;
-bool palindrome(int num) {
-    long int n=num;
-    long int reverse =0;
-    if(n<0) {
+
+bool isPalindrome(int n) {
+    long int number = n;
+    long int reverse = 0;
+    if(n<0){
         return false;
     }
-    while(n>0) {
-        int digit=n%10;
-        reverse = reverse*10 + digit;
-        n/=10;
+    while(number >0){
+        int digit =number%10;
+        reverse = reverse*10+digit;
+        number/=10;
     }
-    return reverse==num;
+    return reverse==n ;
 }
-
 int main() {
     long int num = 121;
-    cout<<palindrome(num);
-
+    cout<<isPalindrome(num);
 }
