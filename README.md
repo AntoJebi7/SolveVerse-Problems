@@ -1,10 +1,8 @@
 # 🚀 Problem-Solving Hub 🌍
 ## LeetCode Heatmap Building
-
-<img src="https://leetcard.jacoblin.cool/dantojebi?ext=heatmap" alt="LeetCode Heatmap" width="50%" />
-
-
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/dantojebi?ext=heatmap" alt="LeetCode Heatmap" width="90%" />
+</div>
 Welcome to my repository of coding challenges and solutions in different programming languages! This repo is constantly evolving as I add more problems and solutions over time. Whether you're learning a new language, preparing for coding interviews, or just love problem-solving, this is the place for you. Feel free to explore, contribute, or give feedback!
 
 ---
