@@ -1,7 +1,7 @@
 # 🚀 Problem-Solving Hub 🌍
 ## LeetCode Heatmap
 
-<img src="https://leetcard.jacoblin.cool/dantojebi?ext=heatmap" alt="LeetCode Heatmap" width="90%" />
+<img src="https://leetcard.jacoblin.cool/dantojebi?ext=heatmap" alt="LeetCode Heatmap" width="50%" />
 
 
 
