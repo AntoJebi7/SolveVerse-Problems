@@ -1,4 +1,5 @@
 # 🚀 Problem-Solving Hub 🌍
+Solving a LeetCode problem every day to steadily build and refine problem-solving skills.
 ## LeetCode Heatmap Building
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/dantojebi?ext=heatmap" alt="LeetCode Heatmap" width="90%" />
