@@ -1,5 +1,5 @@
 # 🚀 Problem-Solving Hub 🌍
-## LeetCode Heatmap
+## LeetCode Heatmap Building
 
 <img src="https://leetcard.jacoblin.cool/dantojebi?ext=heatmap" alt="LeetCode Heatmap" width="50%" />
 
