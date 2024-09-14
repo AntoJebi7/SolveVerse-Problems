@@ -66,16 +66,12 @@ public:
 int main() {
     // Create an instance of the Solution class
     Solution solution;
-
     // Example input
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
-
     // Call the twoSum method
     vector<int> result = solution.twoSum(nums, target);
-
     // Print the result
     cout << "Indices of the two numbers are: " << result[0] << " and " << result[1] << endl;
-
     return 0;
 }
