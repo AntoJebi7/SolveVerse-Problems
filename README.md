@@ -1,4 +1,4 @@
-# 🚀 Problem-Solving Hub 🌍
+# 🚀 SolveVerse-Problem-Solving Hub 🌍
 Initiative on September 12, 2024, to solve a LeetCode problem daily in order to steadily build and refine my problem-solving skills.
 https://leetcode.com/problemset/
 ## LeetCode Heatmap Building
