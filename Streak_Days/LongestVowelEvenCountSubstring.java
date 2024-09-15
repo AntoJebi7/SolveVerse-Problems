@@ -1,3 +1,4 @@
+package Streak_Days;
 /* 🔥  Streak day 4  */
 import java.util.HashMap;
 

@@ -1,3 +1,4 @@
+package Streak_Days;
 /* 🔥  Streak day 3  */
 /*
  * Steps to Solve:
