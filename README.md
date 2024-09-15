@@ -36,3 +36,23 @@ Solutions are available in a range of programming languages to offer flexibility
 
 > *More languages to be added soon!*
 
+## Bit Problems:
+### XOR Gate Truth Table
+
+| Input A | Input B | A ⊕ B (XOR) |
+|---------|---------|-------------|
+|    0    |    0    |      0      |
+|    0    |    1    |      1      |
+|    1    |    0    |      1      |
+|    1    |    1    |      0      |
+
+### AND Gate Truth Table
+
+| Input A | Input B | A ∧ B (AND) |
+|---------|---------|-------------|
+|    0    |    0    |      0      |
+|    0    |    1    |      0      |
+|    1    |    0    |      0      |
+|    1    |    1    |      1      |
+
+
