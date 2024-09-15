@@ -67,7 +67,7 @@ Bit manipulation involves performing operations directly on bits. Below is a tab
 | **Toggling a bit**                | Flip the n-th bit                                   | `x ^= (1 << n)`          | `x = 5 (0101 in binary), n = 1`<br>`x ^= (1 << n)` | `7`              | `0111`          |
 | **Checking if a number is power of 2** | Check if the number is a power of 2                | `x & (x - 1) == 0`       | `x = 4 (0100 in binary)`<br>`(x & (x - 1)) == 0` | `true`           | `0100`          |
 | **Counting set bits**              | Count the number of set bits (Hamming Weight)       | `__builtin_popcount(x)`  | `x = 5 (0101 in binary)`<br>`__builtin_popcount(x)` | `2`              | `0101`          |
-| **Right shift (>>) **              | Shift bits to the right                             | `x >> n`                 | `x = 8 (1000 in binary), n = 2`<br>`x >> n`     | `2`              | `0010`          |
+| **Right shift (>>)**              | Shift bits to the right                             | `x >> n`                 | `x = 8 (1000 in binary), n = 2`<br>`x >> n`     | `2`              | `0010`          |
 | **Left shift (<<)**                | Shift bits to the left                              | `x << n`                 | `x = 3 (0011 in binary), n = 2`<br>`x << n`     | `12`             | `1100`          |
 | **Swapping two numbers using XOR**| Swap two numbers without using a temporary variable| `a ^= b; b ^= a; a ^= b;` | `a = 5, b = 7`<br>`a ^= b; b ^= a; a ^= b;`   | `a = 7, b = 5`   | `0111, 0101`    |
 
